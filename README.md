@@ -2,8 +2,8 @@
 
 This is an automation script that finds two things:
 
-# Servers running without a Public IP address
-# IP Addresses associated with Servers not running
+& Servers running without a Public IP address
+& IP Addresses associated with Servers not running
 
 ## Installation Notes
 
