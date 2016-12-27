@@ -23,7 +23,7 @@ With IP addresses associated with instances that are not running, it
 disassociates and releases the IP address.  It doesn't remove the DNS records
 since those are free.
 
-I built this using the Mozilla Rhino Javascript engine.  This provided
+I built this using the (Mozilla Rhino)[https://developer.mozilla.org/en-US/docs/Mozilla/Projects/Rhino] Javascript engine.  This provided
 an easy way to parse the JSON outputs from the AWS CLI, and create logic
 around it instead of using the full-blown AWS APIs. This also makes it 
 easy to use on an Amazon Linux AMI.  Java and the AWS CLI are already 
