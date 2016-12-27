@@ -1,6 +1,6 @@
 var HOSTED_ZONE_ID = 'ZZZEXAMPLEZZZ';
 var ZONE_NAME = 'developmentshack.com';
-var TTL = 60 * 60;
+var TTL = 60;
 var STATE_RUNNING = 'running';
 
 function DnsUtility() {
